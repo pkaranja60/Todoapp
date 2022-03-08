@@ -21,6 +21,8 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.gmail@peterkaranja60.Todoapp",
+        "versionCode": 1,
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
